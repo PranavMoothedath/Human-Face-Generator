@@ -1,4 +1,4 @@
-#Human Face Generator
+Human Face Generator
 This is a human face generator code that uses a dataset of human faces to learn the features of a human face and create new ones. It utilizes the concept of Generative Adversarial Networks (GANs), particularly Deep Convolutional GANs (DCGANs). GANs are composed of two opposing neural networks: a generator and a discriminator.
 
 The generator creates images based on the principle of convolutional upsampling. It is provided with a randomized vector and tasked with creating images. The discriminator judges the images created by the generator, distinguishing between real and fake (generated) images. Both the generator's and discriminator's losses are combined, and the model is fine-tuned based on this combined loss.
