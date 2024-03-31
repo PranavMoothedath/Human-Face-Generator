@@ -16,3 +16,4 @@ During the training process, the generator and discriminator play a minimax game
 
 DCGANs have shown impressive results in generating high-quality, realistic images, particularly in domains like human face generation, where they can capture the intricate details and variations present in human faces.
 
+Attached is the code for project: https://www.kaggle.com/code/pranavmoothedath4/notebooke0aec11b34/notebook
